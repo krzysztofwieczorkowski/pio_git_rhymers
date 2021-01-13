@@ -4,6 +4,7 @@
     <list default="true" id="8690dfa3-1789-4023-bdad-058e9c6a1b8a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/kis/vh/nursery/DefaultCountingOutRhymer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/kis/vh/nursery/DefaultCountingOutRhymer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/kis/vh/nursery/HanoiRhymer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/kis/vh/nursery/HanoiRhymer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +27,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -40,6 +42,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1116" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1610533356140">
+      <screen x="62" y="0" width="2498" height="1080" />
+    </state>
+    <state x="1116" y="241" key="#com.intellij.ide.util.MemberChooser/62.0.2498.1080@62.0.2498.1080" timestamp="1610533356140" />
+    <state x="1015" y="327" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1610533513887">
+      <screen x="62" y="0" width="2498" height="1080" />
+    </state>
+    <state x="1015" y="327" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/62.0.2498.1080@62.0.2498.1080" timestamp="1610533513887" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1610449470511">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
